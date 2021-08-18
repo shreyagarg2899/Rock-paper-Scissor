@@ -1,3 +1,4 @@
+#use of random library
 from random import randint
 print("Welcome to Rock, Paper, Scissors Bot")
 print("select from below items")
